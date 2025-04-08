@@ -1,10 +1,16 @@
 # Hi, I'm Ryan Cotter 👋
 
-- 🔭 I’m currently working on ... 🔢👨‍🔬Data Science and 🤖📖Machine learning
-- 👯 I’m looking to collaborate on ... Data visualization projects, deep learning
-- 💬 Ask me about ... My 🏫academic and 💼professional ↗goals, 🟣Obsidian notetaking strategies, ➕High levl math
-- 📫 How to reach me: ... ryancotter0001@proton.me
-- ⚡ My main hobbies: ... 🏋️‍♂️Olympic weightlifting @hobostrength on instagram, and 🎹music collection
+- 🔭 I’m currently working on ...
+  - 🔢👨‍🔬Data Science and 🤖📖Machine learning
+- 👯 I’m looking to collaborate on ...
+  - Data visualization projects, deep learning
+- 💬 Ask me about ...
+  - My 🏫academic and 💼professional ↗goals
+  - 🟣Obsidian notetaking strategies
+  - ➕High levl math
+- ⚡ My main hobbies: ...
+  - 🏋️‍♂️Olympic weightlifting @hobostrength on instagram
+  - and 🎹music collection
 
 👨‍💻 **Data Scientist | Machine Learning Enthusiast**  
 📍 Boise, ID | 🌐 [LinkedIn](www.linkedin.com/in/ryan-cotter-a2b17a287) | 📧 [Email](ryancotter0001@proton.me)
