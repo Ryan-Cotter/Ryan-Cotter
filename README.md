@@ -23,4 +23,3 @@ I’m a passionate Software developer with over 4 years of experience solving co
 
 **Languages**:  
 Python, SQL, R, Scala  
-![Obsidian graph](assets/images/Screenshot from 2025-04-09 06-40-00.png)
