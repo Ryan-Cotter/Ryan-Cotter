@@ -13,7 +13,9 @@
   - and 🎹music collection
 
 👨‍💻 **Data Scientist | Machine Learning Enthusiast**  
-📍 Boise, ID | 🌐 [LinkedIn](www.linkedin.com/in/ryan-cotter-a2b17a287) | 📧 [Email](ryancotter0001@proton.me)
+📍 Boise, ID | 
+🌐 LinkedIn: www.linkedin.com/in/ryan-cotter-a2b17a287
+📧 Email: ryancotter0001@proton.me
 
 ## 🚀 About Me
 
@@ -23,3 +25,15 @@ I’m a passionate Software developer with over 4 years of experience solving co
 
 **Languages**:  
 Python, SQL, R, Scala  
+
+**Data Science and machine learning**
+Scikit-learn, Tensorflow, Pytorch
+
+**Big Data**
+Spark, Databricks
+
+**Tools and libraries**
+Git, Jupyter, MLflow, Tableau
+
+**Cloud deployment**
+Docker, Kubernetes
