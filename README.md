@@ -26,14 +26,14 @@ I’m a passionate Software developer with over 4 years of experience solving co
 **Languages**:  
 Python, SQL, R, Scala  
 
-**Data Science and machine learning**
+**Data Science and machine learning**:  
 Scikit-learn, Tensorflow, Pytorch
 
-**Big Data**
+**Big Data**:  
 Spark, Databricks
 
-**Tools and libraries**
+**Tools and libraries**:  
 Git, Jupyter, MLflow, Tableau
 
-**Cloud deployment**
+**Cloud deployment**:  
 Docker, Kubernetes
