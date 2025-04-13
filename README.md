@@ -7,7 +7,7 @@
 - 💬 Ask me about ...
   - My 🏫academic and 💼professional ↗goals
   - 🟣Obsidian notetaking strategies
-  - ➕High levl math
+  - ➕High level math
 - ⚡ My main hobbies: ...
   - 🏋️‍♂️Olympic weightlifting @hobostrength on instagram
   - and 🎹music collection
