@@ -1,19 +1,19 @@
 # Hi, I'm Ryan Cotter 👋
-
-- 🔭 I’m currently working on ...
-  - 🔢👨‍🔬Data Science and 🤖📖Machine learning
-  - K - means clustering 
-- 👯 I’m looking to collaborate on ...
-  - Data visualization projects, deep learning
-- 💬 Ask me about ...
+## My work
+- 🔢👨‍🔬 Data engineering and ETL pipelining
+- 🤖📖ML model development, clustering and regression
+- 🔭Fullstack react app development
+## My hobbies
+- ➕Graduate math
+- 💰Quantitative finance
+- 🏋️‍♂️Olympic weightlifting @hobostrength on instagram
+- 🎹music collection
+## 💬 Ask me about ...
   - My 🏫academic and 💼professional ↗goals
   - 🟣Obsidian notetaking strategies
-  - ➕High level math
-- ⚡ My main hobbies: ...
-  - 🏋️‍♂️Olympic weightlifting @hobostrength on instagram
-  - and 🎹music collection
 
-👨‍💻 **Data Scientist | Machine Learning Enthusiast**  
+
+👨‍💻 **Data Scientist | Senior Machine Learning Engineer**  
 📍 Boise, ID | 
 🌐 LinkedIn: www.linkedin.com/in/ryan-cotter-a2b17a287
 📧 Email: ryancotter0001@proton.me
