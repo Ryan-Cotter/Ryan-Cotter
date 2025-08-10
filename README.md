@@ -1,4 +1,4 @@
-https://linktr.ee/ryancotter
+# [Linktree](https://linktr.ee/ryancotter)
 
 # Hi, I'm Ryan Cotter 👋
 ## My work
