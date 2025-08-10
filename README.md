@@ -1,3 +1,5 @@
+https://linktr.ee/ryancotter
+
 # Hi, I'm Ryan Cotter 👋
 ## My work
 - 🔢👨‍🔬 Data engineering and ETL pipelining
